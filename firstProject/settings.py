@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'firstProject.wsgi.application'
 DATABASES = {
     'default': {
          'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'db_test',
+        'NAME': 'wordpress',
         'USER': 'root',
         'HOST': '127.0.0.1',
-        'PASSWORD': 'reason123',
+        'PASSWORD': '4558dfef9841',
         'PORT': 3306,
     }
 }
